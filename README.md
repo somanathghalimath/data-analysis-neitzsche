@@ -4,3 +4,4 @@ The usage is pretty simple, import the notebook and provide the filename/path an
 This file can be used for any large text, I have used it specifically for Nietschze.
 
 Feel free to DM me on LinkedIn for any questions, feedback or comments.
+https://www.linkedin.com/in/somanath-ghalimath/
